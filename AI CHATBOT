@@ -1,1 +1,19 @@
+a= input("HELLUwwW!!.......\n")
+if a=="Hi" or 'hi':
+    b=input("How have you been doing?\n")
+if b=="Good":
+    print("Great")
+c=input("So what are you planning on doing today?\n")
+if  c=="playing":
+    print("Happy Playing")
+elif c=="sleeping":
+    print("Have a great sleep")
+elif  c=="Eating":
+    print("Happy Eating")
 
+d=input("Any plans today?\n")
+if d=="Movie":
+    print("Go grab some popcorn")
+elif d=="Going Out":
+    print("Don't forget your umbrella,its cloudy")
+else: print("cool.............sometimes doing nothing gives you the best feeling in the world")
